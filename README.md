@@ -1,5 +1,4 @@
 # Card-and-puzzle-game
-# 🎮 Android Game App – Puzzle & Card Game
 
 This project is a mobile application developed using **Android Studio** that includes two mini-games: a **card game** and a **puzzle game**. The app was built entirely by me as part of a personal Android development project.
 
